@@ -28,3 +28,4 @@ There si a json file in the format :
   }
 ]
 theere ia a question aswer and correct answer. There is the possibility to add a image for quiz
+you need to intall in python PIL library
